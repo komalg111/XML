@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<atom:link href="https://developer.apple.com/news/rss/news.rss" rel="self" type="application/rss+xml" />
+<title>News - Apple Developer</title>
+<link>https://developer.apple.com/news/</link>
+<description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
+<language>en-US</language>
+<lastBuildDate>Wed, 31 Jan 2018 12:00:00 PST</lastBuildDate>
+<generator>Custom</generator>
+<copyright>Copyright 2018, Apple Inc.</copyright>
+
+<item>
+<title>Upload App Previews with Transporter</title>
+<link>https://developer.apple.com/news/?id=01312018a</link>
+<guid>https://developer.apple.com/news/?id=01312018a</guid>
+<description>You can now use Transporter, Apple’s command-line delivery tool, to upload app previews to iTunes Connect. Transporter integrates with your content management system to deliver your app metadata in bulk using XML, which is especially useful for adding and managing multiple localizations. For details on using Transporter to upload app previews, see the App Metadata Specification.Learn more about app previews.</description>
+<pubDate>Wed, 31 Jan 2018 12:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>You can now use <a href=" https://help.apple.com/itc/transporteruserguide/" target="_blank">Transporter</a>, Apple’s command-line delivery tool, to upload app previews to iTunes Connect. Transporter integrates with your content management system to deliver your app metadata in bulk using XML, which is especially useful for adding and managing multiple localizations. For details on using Transporter to upload app previews, see the <a href="http://help.apple.com/itc/appsspec/" target="_blank">App Metadata Specification</a>.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/app-previews/">Learn more about app previews</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>New Tools for 64-bit Support in Xcode 9.3 Beta</title>
+<link>https://developer.apple.com/news/?id=01242018d</link>
+<guid>https://developer.apple.com/news/?id=01242018d</guid>
+<description>The last macOS release to support 32-bit apps without compromise is macOS High Sierra. Make sure future releases of your app are 64-bit compatible by using new diagnostic tools in Xcode 9.3 beta and testing on macOS 10.13.4 beta. This version of Xcode also builds 64-bit apps by default.Download Xcode 9.3 beta.</description>
+<pubDate>Wed, 24 Jan 2018 13:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>The last macOS release to support 32-bit apps without compromise is macOS High&nbsp;Sierra. Make sure future releases of your app are 64-bit compatible by using new diagnostic tools in Xcode 9.3 beta and testing on macOS 10.13.4 beta. This version of Xcode also builds 64-bit apps by default.</p><p><a href="https://developer.apple.com/download">Download Xcode 9.3 beta</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Reminder: 64-bit Requirement for Mac Apps</title>
+<link>https://developer.apple.com/news/?id=01242018c</link>
+<guid>https://developer.apple.com/news/?id=01242018c</guid>
+<description>Starting January 31, new apps submitted to the Mac App Store must support 64-bit, and Mac app updates and existing apps must support 64-bit starting June 2018. If you distribute your apps outside the Mac App Store, we highly recommend distributing 64-bit binaries to make sure your users can continue to run your apps on future versions of macOS. Build and submit your apps using Xcode 9.2.Learn more about distributing Mac apps.</description>
+<pubDate>Wed, 24 Jan 2018 13:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Starting January 31, new apps submitted to the Mac App Store must support 64-bit, and Mac app updates and existing apps must support 64-bit starting June 2018. If you distribute your apps outside the Mac App Store, we highly recommend distributing 64-bit binaries to make sure your users can continue to run your apps on future versions of macOS. Build and submit your apps using Xcode 9.2.</p><p><a href="https://developer.apple.com/macos/distribution/">Learn more about distributing Mac apps</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>ARKit 1.5 Now Available</title>
+<link>https://developer.apple.com/news/?id=01242018b</link>
+<guid>https://developer.apple.com/news/?id=01242018b</guid>
+<description>iOS 11 is the biggest AR platform in the world, allowing you to create unparalleled augmented reality experiences for hundreds of millions of iOS users. Now you can build even more immersive experiences by taking advantage of the latest features of ARKit, available in iOS 11.3 beta. With improved scene understanding, your app can see and place virtual objects on vertical surfaces, and more accurately map irregularly shaped surfaces. Real world images, such as signs, posters, and artwork can be integrated into the AR experience, so your app can fill a museum with interactive content or bring a movie poster to life. And now, the pass-through camera view of the real world is higher resolution and supports auto-focus for a sharper view in more situations.Learn more about ARKit.</description>
+<pubDate>Wed, 24 Jan 2018 10:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>iOS 11 is the biggest AR platform in the world, allowing you to create unparalleled augmented reality experiences for hundreds of millions of iOS users. Now you can build even more immersive experiences by taking advantage of the latest features of ARKit, available in iOS 11.3 beta. With improved scene understanding, your app can see and place virtual objects on vertical surfaces, and more accurately map irregularly shaped surfaces. Real world images, such as signs, posters, and artwork can be integrated into the AR experience, so your app can fill a museum with interactive content or bring a movie poster to life. And now, the pass-through camera view of the real world is higher resolution and supports auto-focus for a sharper view in more situations.</p><p><span class="nowrap"><a href="https://developer.apple.com/arkit/">Learn more about ARKit</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Swift Playgrounds 2.0 Now Available</title>
+<link>https://developer.apple.com/news/?id=01242018a</link>
+<guid>https://developer.apple.com/news/?id=01242018a</guid>
+<description>The latest version of Swift Playgrounds includes new features to make it easier to discover even more content. Now you can subscribe to playgrounds from your favorite third-party creators, then browse and download their content directly within Swift Playgrounds. You’ll automatically see new and updated playgrounds in your subscriptions, a content gallery that shows all playgrounds in a single view, new robots, and much more.Learn more about Swift Playgrounds.</description>
+<pubDate>Wed, 24 Jan 2018 10:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>The latest version of Swift Playgrounds includes new features to make it easier to discover even more content. Now you can subscribe to playgrounds from your favorite third-party creators, then browse and download their content directly within Swift Playgrounds. You’ll automatically see new and updated playgrounds in your subscriptions, a content gallery that shows all playgrounds in a single view, new robots, and much more.</p><p><span class="nowrap"><a href="https://developer.apple.com/swift-playgrounds/">Learn more about Swift Playgrounds</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Apple Developer Program Membership Fee Waivers Now Available</title>
+<link>https://developer.apple.com/news/?id=01032018a</link>
+<guid>https://developer.apple.com/news/?id=01032018a</guid>
+<description>We’re pleased to announce that Apple Developer Program membership is now available at no cost for eligible organizations. Nonprofit organizations, accredited educational institutions, and government entities based in the United States that will distribute only free apps on the App Store can request to have their annual membership fee waived.Learn more about membership fee waivers.</description>
+<pubDate>Wed, 03 Jan 2018 10:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>We’re pleased to announce that Apple Developer Program membership is now available at no cost for eligible organizations. Nonprofit organizations, accredited educational institutions, and government entities based in the United States that will distribute only free apps on the App Store can request to have their annual membership fee waived.</p><p><a href="https://developer.apple.com/support/membership-fee-waiver/">Learn more about membership fee waivers</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Updated Guidelines Now Available</title>
+<link>https://developer.apple.com/news/?id=12202017a</link>
+<guid>https://developer.apple.com/news/?id=12202017a</guid>
+<description>The App Store Review Guidelines have been updated. We review all apps submitted to the App Store in an effort to determine whether they are reliable, perform as expected, and are free of offensive material. As you plan and develop your app, make sure to use these updated guidelines.Read the App Store Review Guidelines.</description>
+<pubDate>Wed, 20 Dec 2017 16:30:00 PST</pubDate>
+<content:encoded><![CDATA[<p>The App Store Review Guidelines have been updated. We review all apps submitted to the App Store in an effort to determine whether they are reliable, perform as expected, and are free of offensive material. As you plan and develop your app, make sure to use these updated guidelines.</p><p><a href="https://developer.apple.com/app-store/review/guidelines/">Read the App Store Review Guidelines</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>iTunes Connect Holiday Schedule</title>
+<link>https://developer.apple.com/news/?id=12132017a</link>
+<guid>https://developer.apple.com/news/?id=12132017a</guid>
+<description>As a reminder, new apps and app updates will not be accepted December 23 to 27 (Pacific Time), so any releases should be submitted, approved, and scheduled in advance. Other iTunes Connect and developer account features will remain available.Learn more about preparing apps for the App Store.</description>
+<pubDate>Wed, 13 Dec 2017 17:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>As a reminder, new apps and app updates will not be accepted December 23 to 27 (Pacific Time), so any releases should be submitted, approved, and scheduled in advance. Other iTunes Connect and developer account features will remain available.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/submissions/">Learn more about preparing apps for the App&nbsp;Store</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Make Your Apps Available for Pre-Order</title>
+<link>https://developer.apple.com/news/?id=12112017a</link>
+<guid>https://developer.apple.com/news/?id=12112017a</guid>
+<description>You can now make your new apps available for pre-order on the App Store on all Apple platforms. Customers can see your product page and order your app before it’s released for download. Once your app is released, customers will be notified and it will automatically download to their device. Let your customers know your app is coming by using the pre-order badges in your marketing materials.Learn more about offering your apps for pre-order.</description>
+<pubDate>Mon, 11 Dec 2017 16:20:00 PST</pubDate>
+<content:encoded><![CDATA[<p>You can now make your new apps available for pre-order on the App&nbsp;Store on all Apple platforms. Customers can see your product page and order your app before it’s released for download. Once your app is released, customers will be notified and it will automatically download to their device. Let your customers know your app is coming by using the pre-order badges in your marketing materials.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/pre-orders/">Learn more about offering your apps for pre-order</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Offer Introductory Pricing for Your Subscriptions</title>
+<link>https://developer.apple.com/news/?id=12112017b</link>
+<guid>https://developer.apple.com/news/?id=12112017b</guid>
+<description>You can now offer new customers a discounted introductory price for your auto-renewable subscriptions on the App Store. Visit your in-app purchase page in iTunes Connect to configure introductory pricing and use new API additions in iOS 11.2 to localize and display introductory pricing details to your users.Learn more about offering introductory pricing.</description>
+<pubDate>Mon, 11 Dec 2017 16:20:00 PST</pubDate>
+<content:encoded><![CDATA[<p>You can now offer new customers a discounted introductory price for your auto-renewable subscriptions on the App&nbsp;Store. Visit your in-app purchase page in iTunes Connect to configure introductory pricing and use new API additions in iOS 11.2 to localize and display introductory pricing details to your users.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/subscriptions/">Learn more about offering introductory pricing</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>App Store Best of 2017</title>
+<link>https://developer.apple.com/news/?id=12072017a</link>
+<guid>https://developer.apple.com/news/?id=12072017a</guid>
+<description>Congratulations to the developers featured in the App Store Best of 2017. This showcase honors our favorite apps and games on the App Store, and celebrates the amazing experiences that developers have created for macOS, iOS, watchOS, and tvOS.See all the featured apps and games.</description>
+<pubDate>Thu, 07 Dec 2017 04:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Congratulations to the developers featured in the App Store Best of 2017. This showcase honors our favorite apps and games on the App&nbsp;Store, and celebrates the amazing experiences that developers have created for macOS, iOS, watchOS, and tvOS.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/best-of-2017/">See all the featured apps and games.</a></span></p>]]></content:encoded>
+</item>
+<item>
+<title>Introducing Search Ads Basic</title>
+<link>https://developer.apple.com/news/?id=12052017a</link>
+<guid>https://developer.apple.com/news/?id=12052017a</guid>
+<description>Search Ads Basic is a new cost-per-install offering, ideal if you have limited time or expertise to promote your app. Put your app at the top of relevant search results on the App Store in the United States, with global expansion coming in fall 2018. Your first installs are free with a 100 USD credit.Learn more about Search Ads Basic.</description>
+<pubDate>Tue, 05 Dec 2017 15:30:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Search Ads Basic is a new cost-per-install offering, ideal if you have limited time or expertise to promote your app. Put your app at the top of relevant search results on the App&nbsp;Store in the United States, with global expansion coming in fall 2018. Your first installs are free with a 100&nbsp;USD&nbsp;credit.</p><p><span class="nowrap"><a href="https://searchads.apple.com/basic?cid=sa-in-us-drnsab/">Learn more about Search Ads Basic</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>64-bit Requirement for Mac Apps</title>
+<link>https://developer.apple.com/news/?id=12012017a</link>
+<guid>https://developer.apple.com/news/?id=12012017a</guid>
+<description>As a reminder, new apps submitted to the Mac App Store must support 64-bit starting January 2018, and Mac app updates and existing apps must support 64-bit starting June 2018. If you distribute your apps outside the Mac App Store, we highly recommend distributing 64-bit binaries to make sure your users can continue to run your apps on future versions of macOS. The last macOS release to support 32-bit apps without compromise is macOS High Sierra.Learn more about distributing Mac apps.</description>
+<pubDate>Fri, 01 Dec 2017 13:30:00 PST</pubDate>
+<content:encoded><![CDATA[<p>As a reminder, new apps submitted to the Mac&nbsp;App&nbsp;Store must support 64-bit starting January 2018, and Mac app updates and existing apps must support 64-bit starting June&nbsp;2018. If you distribute your apps outside the Mac&nbsp;App&nbsp;Store, we highly recommend distributing 64-bit binaries to make sure your users can continue to run your apps on future versions of macOS. The last macOS release to support 32-bit apps without compromise is macOS&nbsp;High&nbsp;Sierra.</p><p><a href="https://developer.apple.com/macos/distribution/">Learn more about distributing Mac apps</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title> Hour of Code</title>
+<link>https://developer.apple.com/news/?id=11282017b</link>
+<guid>https://developer.apple.com/news/?id=11282017b</guid>
+<description>Apple celebrates Computer Science Education Week from December 4 to 10 with fun and engaging challenges in Swift Playgrounds on iPad. You can learn coding basics with Byte and friends or get creative using Swift code to build The Incredible Code Machine. Host your own Hour of Code event by downloading the facilitator guide or sign up for a coding session at your local Apple Store with  Today at Apple.The Hour of Code is an initiative by Computer Science Education Week and Code.org to introduce millions of students around the world to one hour of computer science and computer programming.</description>
+<pubDate>Tue, 28 Nov 2017 10:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Apple celebrates Computer Science Education Week from December 4 to 10 with fun and engaging challenges in <span class="nowrap"><a href="https://developer.apple.com/swift/playgrounds/">Swift Playgrounds</a></span> on iPad. You can learn coding basics with Byte and friends or get creative using Swift code to build The Incredible Code Machine. Host your own Hour of Code event by downloading the <a href="https://images.apple.com/education/docs/hour-of-code-guide-2017.pdf">facilitator guide</a> or sign up for a coding session at your local Apple Store with  <a href=" https://www.apple.com/today/collection/hourofcode/">Today at Apple</a>.</p><p>The Hour of Code is an initiative by <a href="https://csedweek.org">Computer Science Education Week</a> and <a href="https://code.org">Code.org</a> to introduce millions of students around the world to one hour of computer science and computer programming.</p>]]></content:encoded>
+</item>
+<item>
+<title>iTunes Connect Holiday Schedule</title>
+<link>https://developer.apple.com/news/?id=11282017a</link>
+<guid>https://developer.apple.com/news/?id=11282017a</guid>
+<description>The busiest season on the App Store is almost here. Make sure your apps are up-to-date and ready for the holidays. New apps and app updates will not be accepted December 23 to 27 (Pacific Time), so any releases should be submitted, approved, and scheduled in advance. Other iTunes Connect and developer account features will remain available.With the new App Store on iOS 11, you can let customers know about promotions, upcoming features, and events within your app at any time using the promotional text field. Your app’s promotional text appears at the top of the description and is up to 170 characters long.Learn more about preparing apps for the App Store.</description>
+<pubDate>Tue, 28 Nov 2017 10:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>The busiest season on the App Store is almost here. Make sure your apps are up-to-date and ready for the holidays. New apps and app updates will not be accepted December 23 to 27 (Pacific Time), so any releases should be submitted, approved, and scheduled in advance. Other iTunes Connect and developer account features will remain available.</p><p>With the new App Store on iOS 11, you can let customers know about promotions, upcoming features, and events within your app at any time using the promotional text field. Your app’s promotional text appears at the top of the description and is up to 170 characters long.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/submissions/">Learn more about preparing apps for the App&nbsp;Store</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Update Your watchOS Apps</title>
+<link>https://developer.apple.com/news/?id=11162017a</link>
+<guid>https://developer.apple.com/news/?id=11162017a</guid>
+<description>Enable your watchOS apps to connect anywhere and anytime, even without a phone nearby, by updating for watchOS 4 and Apple Watch Series 3. Take advantage of increased performance, new background modes for navigation and audio recording, built-in altimeter capabilities, direct connections to accessories with Core Bluetooth, and more. In addition, the size limit of a watchOS app bundle has increased from 50 MB to 75 MB.Please note that starting April 1, 2018, updates to watchOS 1 apps will no longer be accepted. Updates must be native apps built with the watchOS 2 SDK or later. New watchOS apps should be built with the watchOS 4 SDK or later.Learn about developing for watchOS 4.</description>
+<pubDate>Thu, 16 Nov 2017 13:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Enable your watchOS apps to connect anywhere and anytime, even without a phone nearby, by updating for watchOS 4 and Apple Watch Series 3. Take advantage of increased performance, new background modes for navigation and audio recording, built-in altimeter capabilities, direct connections to accessories with Core Bluetooth, and more. In addition, the size limit of a watchOS app bundle has increased from 50 MB to 75&nbsp;MB.</p><p>Please note that starting April 1, 2018, updates to watchOS 1 apps will no longer be accepted. Updates must be native apps built with the watchOS 2 SDK or later. New watchOS apps should be built with the watchOS&nbsp;4 SDK or later.</p><p><a href="https://developer.apple.com/watchos/">Learn about developing for watchOS&nbsp;4</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Websites on iPhone X</title>
+<link>https://developer.apple.com/news/?id=11132017a</link>
+<guid>https://developer.apple.com/news/?id=11132017a</guid>
+<description>Your websites will automatically display properly on the Super Retina screen on iPhone X, as Safari automatically insets your content within the safe area so it’s clear of the rounded corners and sensor housing. If your website is designed with full-width horizontal navigation, you can choose to take full advantage of the edge-to-edge display by using a new WebKit API introduced in iOS 11.2. Start testing your website today with the iPhone X simulator, included with Xcode 9.2 beta.Learn more about designing websites for iPhone X.</description>
+<pubDate>Mon, 13 Nov 2017 15:50:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Your websites will automatically display properly on the Super Retina screen on iPhone X, as Safari automatically insets your content within the safe area so it’s clear of the rounded corners and sensor housing. If your website is designed with full-width horizontal navigation, you can choose to take full advantage of the edge-to-edge display by using a new WebKit API introduced in iOS 11.2. Start testing your website today with the iPhone X simulator, included with <a href="https://developer.apple.com/download/">Xcode&nbsp;9.2&nbsp;beta</a>.</p><p><a href="https://webkit.org/blog/7929/designing-websites-for-iphone-x/">Learn more about designing websites for iPhone X</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>New App Store Marketing Guidelines and Resources</title>
+<link>https://developer.apple.com/news/?id=11032017</link>
+<guid>https://developer.apple.com/news/?id=11032017</guid>
+<description>You can now download App Store badges with updated fonts and options, as well as images of iPhone X, iPhone 8, iPhone 8 Plus, Apple Watch Series 3, and Apple TV 4K to use in marketing materials for your apps on the App Store. Marketing guidance has also been updated. Visit the App Store Marketing Guidelines.</description>
+<pubDate>Fri, 03 Nov 2017 16:45:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>You can now download App&nbsp;Store badges with updated fonts and options, as well as images of iPhone&nbsp;X, iPhone&nbsp;8, iPhone&nbsp;8&nbsp;Plus, Apple&nbsp;Watch&nbsp;Series&nbsp;3, and Apple&nbsp;TV&nbsp;4K to use in marketing materials for your apps on the App&nbsp;Store. Marketing guidance has also been updated. Visit the <a href="https://developer.apple.com/app-store/marketing/guidelines/">App&nbsp;Store Marketing Guidelines</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Get Ready for SiriKit on HomePod</title>
+<link>https://developer.apple.com/news/?id=10302017a</link>
+<guid>https://developer.apple.com/news/?id=10302017a</guid>
+<description>iOS 11.2 introduces SiriKit for HomePod, the powerful speaker that sounds amazing, adapts to wherever it’s playing, and provides instant access to Apple Music. HomePod is also a helpful home assistant for everyday questions and tasks. With the intelligence of Siri, users control HomePod through natural voice interaction. And with SiriKit, users can access iOS apps for Messaging, Lists, and Notes. Make sure your SiriKit integration is up to date and test your app’s voice-only experience today. Learn more about SiriKit on HomePod.</description>
+<pubDate>Mon, 30 Oct 2017 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>iOS 11.2 introduces SiriKit for HomePod, the powerful speaker that sounds amazing, adapts to wherever it’s playing, and provides instant access to Apple Music. HomePod is also a helpful home assistant for everyday questions and tasks. With the intelligence of Siri, users control HomePod through natural voice interaction. And with SiriKit, users can access iOS apps for Messaging, Lists, and Notes. Make sure your SiriKit integration is up to date and test your app’s voice-only experience today. </p><p><a href="https://developer.apple.com/sirikit/">Learn more about SiriKit on HomePod</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Submit Your Updated Apps for iPhone X</title>
+<link>https://developer.apple.com/news/?id=10272017a</link>
+<guid>https://developer.apple.com/news/?id=10272017a</guid>
+<description>The future is almost here. iPhone X will be available November 3. This stunning device features the all-new Super Retina display for more immersive experiences and Face ID, a secure new way to unlock, authenticate, and pay. The TrueDepth camera works with ARKit, and the A11 Bionic chip is designed for Core ML and Metal 2. Download Xcode 9.0.1, test your apps in the iPhone X simulator, and capture screenshots. Then submit your updated apps and metadata in iTunes Connect today.Learn about submitting iOS apps to the App Store.</description>
+<pubDate>Fri, 27 Oct 2017 14:20:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>The future is almost here. iPhone X will be available November 3. This stunning device features the all-new Super Retina display for more immersive experiences and Face ID, a secure new way to unlock, authenticate, and pay. The TrueDepth camera works with ARKit, and the A11 Bionic chip is designed for Core ML and Metal 2. Download <a href="https://itunes.apple.com/us/app/xcode/id497799835?mt=12">Xcode&nbsp;9.0.1</a>, test your apps in the iPhone&nbsp;X simulator, and capture screenshots. Then submit your updated apps and metadata in iTunes Connect today.</p><p><a href="https://developer.apple.com/ios/submit/">Learn about submitting iOS apps to the App Store</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Apple Pay Has Expanded to Sweden, Denmark, Finland and the United Arab Emirates</title>
+<link>https://developer.apple.com/news/?id=10232017a</link>
+<guid>https://developer.apple.com/news/?id=10232017a</guid>
+<description>You can now support Apple Pay for your customers in Sweden, Denmark, Finland and the United Arab Emirates, providing an easy and secure way for them to pay within your apps and websites.Learn more about Apple Pay.</description>
+<pubDate>Mon, 23 Oct 2017 21:40:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>You can now support Apple Pay for your customers in Sweden, Denmark, Finland and the United&nbsp;Arab&nbsp;Emirates, providing an easy and secure way for them to pay within your apps and websites.</p><p><span class="nowrap"><a href="https://developer.apple.com/apple-pay/">Learn more about Apple Pay</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Search Ads is Expanding to Canada, Mexico, and Switzerland</title>
+<link>https://developer.apple.com/news/?id=10102017a</link>
+<guid>https://developer.apple.com/news/?id=10102017a</guid>
+<description>You can now create campaigns to promote your apps on the App Store in Canada, Mexico, and Switzerland, in addition to the US, UK, Australia, and New Zealand. Ads for new storefronts go live October 17, 2017.Search Ads provides an efficient and easy way to promote your app at the top of relevant search results. Try Search Ads for free with a 100 USD credit when you set up your first campaign.Learn more about Search Ads.</description>
+<pubDate>Tue, 10 Oct 2017 11:30:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>You can now create campaigns to promote your apps on the App Store in Canada, Mexico, and Switzerland, in addition to the US, UK, Australia, and New Zealand. Ads for new storefronts go live October 17, 2017.</p><p>Search Ads provides an efficient and easy way to promote your app at the top of relevant search results. Try Search Ads for free with a 100 USD credit when you set up your first campaign.</p><p><a href="https://searchads.apple.com/?cid=sa-in-us-drncms">Learn more about Search Ads</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Creating and Promoting Your AR Apps</title>
+<link>https://developer.apple.com/news/?id=10062017a</link>
+<guid>https://developer.apple.com/news/?id=10062017a</guid>
+<description>ARKit lets you seamlessly blend realistic virtual objects with the real world, so you can take your apps beyond the screen. Use these resources to learn how to clearly indicate when the user enters AR, show users what to expect from your AR experiences with app previews, and build Face Tracking support for iPhone X.Interface DesignProvide an intuitive initialization process within your app to clearly indicate when the user enters AR.Read the Human Interface Guidelines.App PreviewsCreate short videos of your AR app experience for your App Store product page. Since app previews autoplay on the App Store on iOS 11, they're key in helping users discover and learn about your app.Read Creating App Previews for AR Apps.Face TrackingLearn how to detect the position, topology, and expression of a user's face, use facial expressions to drive a 3D character, and more with the TrueDepth camera on iPhone X.Watch Face Tracking with ARKit.</description>
+<pubDate>Fri, 06 Oct 2017 14:15:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>ARKit lets you seamlessly blend realistic virtual objects with the real world, so you can take your apps beyond the screen. Use these resources to learn how to clearly indicate when the user enters AR, show users what to expect from your AR experiences with app previews, and build Face Tracking support for iPhone&nbsp;X.</p><p><b>Interface Design</b><br>Provide an intuitive initialization process within your app to clearly indicate when the user enters AR.<br><a href="https://developer.apple.com/ios/human-interface-guidelines/technologies/augmented-reality/">Read the Human Interface Guidelines</a>.</p><p><b>App Previews</b><br>Create short videos of your AR app experience for your App&nbsp;Store product page. Since app previews autoplay on the App&nbsp;Store on iOS 11, they're key in helping users discover and learn about your app.<br><a href="https://developer.apple.com/app-store/ar-app-previews/">Read Creating App Previews for AR Apps</a>.</p><p><b>Face Tracking</b><br>Learn how to detect the position, topology, and expression of a user's face, use facial expressions to drive a 3D character, and more with the TrueDepth camera on iPhone&nbsp;X.<br><a href="https://developer.apple.com/videos/play/fall2017/601/">Watch Face Tracking with ARKit</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Update Your Apps for iPhone X</title>
+<link>https://developer.apple.com/news/?id=10032017a</link>
+<guid>https://developer.apple.com/news/?id=10032017a</guid>
+<description>iPhone X features the stunning 5.8-inch Super Retina display, enabling even more immersive app experiences. Start testing your apps now to make sure they are ready to take advantage of the Super Retina display by respecting safe areas, supporting adaptive layouts, and more.Learn about updating apps for iPhone X.</description>
+<pubDate>Tue, 03 Oct 2017 14:30:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>iPhone X features the stunning 5.8-inch Super Retina display, enabling even more immersive app experiences. Start testing your apps now to make sure they are ready to take advantage of the Super Retina display by respecting safe areas, supporting adaptive layouts, and more.</p><p><a href="https://developer.apple.com/ios/update-apps-for-iphone-x/">Learn about updating apps for iPhone X</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Newly Streamlined App Ratings</title>
+<link>https://developer.apple.com/news/?id=09202017a</link>
+<guid>https://developer.apple.com/news/?id=09202017a</guid>
+<description>Now it’s quicker and easier for users to see your app's rating, with just one summary rating that displays on your product page. This summary rating is based on ratings of your app's current version as of September 19 (Pacific Time), and is specific to each territory on the App Store. New ratings will continue to count towards this summary, and you can choose to reset your summary rating when you release a new version of your app. Customer reviews for all versions of your app will continue to display on your product page.Learn about Ratings, Reviews, and Responses.</description>
+<pubDate>Wed, 20 Sep 2017 09:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Now it’s quicker and easier for users to see your app's rating, with just one summary rating that displays on your product page. This summary rating is based on ratings of your app's current version as of September 19 (Pacific Time), and is specific to each territory on the App Store. New ratings will continue to count towards this summary, and you can choose to reset your summary rating when you release a new version of your app. Customer reviews for all versions of your app will continue to display on your product page.</p><p><a href="https://developer.apple.com/app-store/ratings-and-reviews/">Learn about Ratings, Reviews, and Responses</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>The All-new App Store is Here</title>
+<link>https://developer.apple.com/news/?id=09192017c</link>
+<guid>https://developer.apple.com/news/?id=09192017c</guid>
+<description>The App Store has grown beyond anything we could have ever imagined. And now, with daily stories by our editors, a dedicated Games tab, lists for all kinds of apps, and much more, this beautiful new design provides an amazing place to highlight your incredible work — and help customers discover new apps and games.Share Your PresenceJoin us in celebrating your app on the new App Store by promoting your updated product page. Simply download the marketing toolkit and share your app or game with the world.Download the marketing toolkit.</description>
+<pubDate>Tue, 19 Sep 2017 17:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>The App Store has grown beyond anything we could have ever imagined. And now, with daily stories by our editors, a dedicated Games tab, lists for all kinds of apps, and much more, this beautiful new design provides an amazing place to highlight your incredible work — and help customers discover new apps and&nbsp;games.</p><p><b>Share Your Presence</b><br>Join us in celebrating your app on the new App Store by promoting your updated product page. Simply download the marketing toolkit and share your app or game with the world.</p><p><a href="https://developer.apple.com/app-store/marketing/ios-11/">Download the marketing toolkit</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Higher Limit for Over-the-Air Downloads</title>
+<link>https://developer.apple.com/news/?id=09192017b</link>
+<guid>https://developer.apple.com/news/?id=09192017b</guid>
+<description>We’ve increased the cellular download limit from 100 MB to 150 MB, letting customers download more apps from the App Store over their cellular network.</description>
+<pubDate>Tue, 19 Sep 2017 13:40:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>We’ve increased the cellular download limit from 100 MB to 150&nbsp;MB, letting customers download more apps from the App&nbsp;Store over their cellular network.</p>]]></content:encoded>
+</item>
+<item>
+<title>Updated Guidelines Now Available</title>
+<link>https://developer.apple.com/news/?id=09142017b</link>
+<guid>https://developer.apple.com/news/?id=09142017b</guid>
+<description>The App Store Review Guidelines have been updated. We review all apps submitted to the App Store in an effort to determine whether they are reliable, perform as expected, and are free of offensive material. As you plan and develop your app, make sure to use these updated guidelines.Read the App Store Review Guidelines.</description>
+<pubDate>Thu, 14 Sep 2017 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>The App Store Review Guidelines have been updated. We review all apps submitted to the App Store in an effort to determine whether they are reliable, perform as expected, and are free of offensive material. As you plan and develop your app, make sure to use these updated guidelines.</p><p><a href="https://developer.apple.com/app-store/review/guidelines/">Read the App Store Review Guidelines</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Submit Your Apps to the App Store</title>
+<link>https://developer.apple.com/news/?id=09122017a</link>
+<guid>https://developer.apple.com/news/?id=09122017a</guid>
+<description>You can now submit your apps that take advantage of exciting new features available in the next release of macOS, iOS, watchOS, and tvOS. Build your apps using Xcode 9 GM seed, test with the latest releases of macOS High Sierra, iOS 11, watchOS 4, tvOS 11, and submit them for review.Download GM seeds.The all-new App Store on iOS 11 provides more opportunities to showcase your content with subtitles, promotional text, additional app previews that you can localize, and up to 20 promoted in-app purchases.Learn about preparing your apps.</description>
+<pubDate>Tue, 12 Sep 2017 12:30:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>You can now submit your apps that take advantage of exciting new features available in the next release of macOS, iOS, watchOS, and tvOS. Build your apps using Xcode 9 GM seed, test with the latest releases of macOS High Sierra, iOS&nbsp;11, watchOS 4, tvOS&nbsp;11, and submit them for review.</p><p><a href="https://developer.apple.com/download/">Download GM seeds</a>.</p><br><p>The all-new App Store on iOS 11 provides more opportunities to showcase your content with subtitles, promotional text, additional app previews that you can localize, and up to 20 promoted in-app purchases.</p><p><a href="https://developer.apple.com/app-store/submissions/">Learn about preparing your apps</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Get Ready for iPhone X</title>
+<link>https://developer.apple.com/news/?id=09122017b</link>
+<guid>https://developer.apple.com/news/?id=09122017b</guid>
+<description>iPhone X features an all-screen Super Retina display for more immersive app experiences and Face ID, a secure new way to unlock, authenticate, and pay. The TrueDepth camera works with ARKit, and the A11 Bionic chip is designed for Core ML and Metal 2.Learn about developing for iPhone X.</description>
+<pubDate>Tue, 12 Sep 2017 12:30:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>iPhone X features an all-screen Super Retina display for more immersive app experiences and Face ID, a secure new way to unlock, authenticate, and pay. The TrueDepth camera works with ARKit, and the A11 Bionic chip is designed for Core ML and Metal&nbsp;2.</p><p><a href="https://developer.apple.com/iphone/">Learn about developing for iPhone X</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Get Ready for Apple Watch Series 3</title>
+<link>https://developer.apple.com/news/?id=09122017c</link>
+<guid>https://developer.apple.com/news/?id=09122017c</guid>
+<description>With cellular, your apps can connect everywhere and anytime, even when not connected to an iPhone or Wi-Fi. Health and fitness apps can also take advantage of the barometric altimeter to display altitude changes and get improved accuracy for workout metrics from HealthKit.Learn about developing for watchOS.</description>
+<pubDate>Tue, 12 Sep 2017 12:30:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>With cellular, your apps can connect everywhere and anytime, even when not connected to an iPhone or Wi-Fi. Health and fitness apps can also take advantage of the barometric altimeter to display altitude changes and get improved accuracy for workout metrics from HealthKit.</p><p><a href="https://developer.apple.com/watchos/">Learn about developing for watchOS</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Get Ready for Apple TV 4K</title>
+<link>https://developer.apple.com/news/?id=09122017d</link>
+<guid>https://developer.apple.com/news/?id=09122017d</guid>
+<description>Now your tvOS apps can deliver amazing cinematic video experiences and stunning picture quality by taking advantage of 4K resolution, Dolby Vision, and HDR10. And with the new Siri remote, you now have three-axis gyro data available to create even more engaging gaming and interactive experiences.Learn about developing for tvOS.</description>
+<pubDate>Tue, 12 Sep 2017 12:30:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Now your tvOS apps can deliver amazing cinematic video experiences and stunning picture quality by taking advantage of 4K resolution, Dolby Vision, and HDR10. And with the new Siri remote, you now have three-axis gyro data available to create even more engaging gaming and interactive experiences.</p><p><a href="https://developer.apple.com/tvos/">Learn about developing for tvOS</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>New Resources Now Available</title>
+<link>https://developer.apple.com/news/?id=09122017e</link>
+<guid>https://developer.apple.com/news/?id=09122017e</guid>
+<description>Design and Development VideosGet new insights on creating apps for the latest advancements in iPhone X, Apple Watch Series 3, and Apple TV 4K with a new collection of videos.Watch videos.Design TemplatesDownload the latest Sketch and Photoshop templates and guides to quickly and accurately design iOS apps that integrate seamlessly into the overall user experience of iPhone X.Download resources.</description>
+<pubDate>Tue, 12 Sep 2017 12:30:00 PDT</pubDate>
+<content:encoded><![CDATA[<p><b>Design and Development Videos</b><br>Get new insights on creating apps for the latest advancements in iPhone&nbsp;X, Apple&nbsp;Watch Series 3, and Apple&nbsp;TV 4K with a new collection of videos.</p><p><a href="https://developer.apple.com/videos/play/fall2017/">Watch videos</a>.</p><br><p><b>Design Templates</b><br>Download the latest Sketch and Photoshop templates and guides to quickly and accurately design iOS apps that integrate seamlessly into the overall user experience of iPhone&nbsp;X.</p><p><a href="https://developer.apple.com/design/resources/">Download resources</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>New Augmented Reality Resources Now Available</title>
+<link>https://developer.apple.com/news/?id=08292017b</link>
+<guid>https://developer.apple.com/news/?id=08292017b</guid>
+<description>Design intuitive augmented reality experiences for iOS using the best practices now available in the Human Interface Guidelines, and explore new sample code for ARKit. We can’t wait for your apps to be available to hundreds of millions of people with the launch of iOS 11 this fall. If you’re working on creating an amazing experience with ARKit and would like to share it with us, let us know.Learn more about ARKit.</description>
+<pubDate>Tue, 29 Aug 2017 15:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Design intuitive augmented reality experiences for iOS using the best practices now available in the Human Interface Guidelines, and explore new sample code for ARKit. We can’t wait for your apps to be available to hundreds of millions of people with the launch of iOS 11 this fall. If you’re working on creating an amazing experience with ARKit and would like to share it with us, <a href="https://developer.apple.com/contact/arkit/">let&nbsp;us&nbsp;know</a>.</p><p><a href="https://developer.apple.com/arkit/">Learn more about ARKit</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Upcoming Requirement for Promoted In-App Purchases</title>
+<link>https://developer.apple.com/news/?id=08292017a</link>
+<guid>https://developer.apple.com/news/?id=08292017a</guid>
+<description>With iOS 11, users can browse in-app purchases directly on the App Store and start a purchase even before downloading your app. During the iOS 11 beta period, promoted in-app purchases are displayed on the App Store without the ability to buy. Starting this fall, your app must handle App Store transactions of promoted in-app purchases in order for your in-app purchases to be displayed on the App Store. Once the GM version of Xcode 9 is released, simply implement the new delegate method within  SKPaymentTransactionObserver, rebuild your app, and submit for review. You can also customize which promoted in-app purchases a user sees on a specific device with the  SKProductStorePromotionController API.Learn more about promoted in-app purchases.</description>
+<pubDate>Tue, 29 Aug 2017 13:35:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>With iOS 11, users can browse in-app purchases directly on the App Store and start a purchase even before downloading your app. During the iOS 11 beta period, promoted in-app purchases are displayed on the App Store without the ability to buy. Starting this fall, your app must handle App Store transactions of promoted in-app purchases in order for your in-app purchases to be displayed on the App Store. Once the GM version of Xcode 9 is released, simply implement the new delegate method within  <a href="https://developer.apple.com/documentation/storekit/skpaymenttransactionobserver/2877502-paymentqueue">SKPaymentTransactionObserver</a>, rebuild your app, and submit for review. You can also customize which promoted in-app purchases a user sees on a specific device with the  <a href="https://developer.apple.com/documentation/storekit/skproductstorepromotioncontroller">SKProductStorePromotionController</a> API.</p><p><a href="https://developer.apple.com/app-store/promoting-in-app-purchases/">Learn more about promoted in-app purchases</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Expanded Tester Limits in TestFlight</title>
+<link>https://developer.apple.com/news/?id=07312017a</link>
+<guid>https://developer.apple.com/news/?id=07312017a</guid>
+<description>Now you can gain even more valuable feedback by inviting up to 10,000 users to beta test your apps before you release them on the App Store. TestFlight makes it simple to invite testers using just their email address and lets testers quickly provide feedback within the TestFlight app.Learn more about TestFlight.</description>
+<pubDate>Mon, 31 Jul 2017 15:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Now you can gain even more valuable feedback by inviting up to 10,000 users to beta test your apps before you release them on the App Store. TestFlight makes it simple to invite testers using just their email address and lets testers quickly provide feedback within the TestFlight app.</p><p><a href="https://developer.apple.com/testflight">Learn more about TestFlight</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>New Subscription Status Details Now Available</title>
+<link>https://developer.apple.com/news/?id=07182017a</link>
+<guid>https://developer.apple.com/news/?id=07182017a</guid>
+<description>Now you can receive server notifications of key events and get enhanced receipts with real-time information about the status of auto-renewable subscriptions. You can use this information to resolve billing issues and engage customers by displaying relevant messaging.Learn more about server notifications for subscriptions.</description>
+<pubDate>Tue, 18 Jul 2017 14:40:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Now you can receive server notifications of key events and get enhanced receipts with real-time information about the status of auto-renewable subscriptions. You can use this information to resolve billing issues and engage customers by displaying <a href="https://developer.apple.com/app-store/subscriptions/#receipts">relevant messaging</a>.</p><p><a href="https://itunespartner.apple.com/en/apps/news/45333106">Learn more about server notifications for subscriptions.</a></p>]]></content:encoded>
+</item>
+<item>
+<title>New Customer Support Role Now Available</title>
+<link>https://developer.apple.com/news/?id=07172017b</link>
+<guid>https://developer.apple.com/news/?id=07172017b</guid>
+<description>Now you can let your customer support experts respond to reviews on the App Store. Simply assign them the Customer Support role in iTunes Connect, and they’ll get access to everything they need to respond to reviews. Learn more about the new role.</description>
+<pubDate>Mon, 17 Jul 2017 17:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Now you can let your customer support experts respond to reviews on the App Store. Simply assign them the Customer Support role in iTunes Connect, and they’ll get access to everything they need to <a href="https://developer.apple.com/app-store/responding-to-reviews">respond to reviews</a>. </p><p><a href="https://itunespartner.apple.com/en/apps/news/96430785">Learn more about the new role.</a></p>]]></content:encoded>
+</item>
+<item>
+<title>WWDC17 Video Transcripts Now Available</title>
+<link>https://developer.apple.com/news/?id=06282017c</link>
+<guid>https://developer.apple.com/news/?id=06282017c</guid>
+<description>Take advantage of transcripts to quickly discover and share information presented in WWDC 2017 videos. You can search by keyword, see all instances where the keyword is mentioned in the video, go straight to the time it was mentioned, and even share a link to that specific time.Watch session videos.</description>
+<pubDate>Wed, 28 Jun 2017 15:25:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Take advantage of transcripts to quickly discover and share information presented in WWDC&nbsp;2017 videos. You can search by keyword, see all instances where the keyword is mentioned in the video, go straight to the time it was mentioned, and even share a link to that specific time.</p><p><a href="https://developer.apple.com/videos/wwdc2017/">Watch session videos</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>64-bit Requirement for Mac Apps</title>
+<link>https://developer.apple.com/news/?id=06282017a</link>
+<guid>https://developer.apple.com/news/?id=06282017a</guid>
+<description>At WWDC 2017, we announced new apps submitted to the Mac App Store must support 64-bit starting January 2018, and Mac app updates and existing apps must support 64-bit starting June 2018. If you distribute your apps outside the Mac App Store, we highly recommend distributing 64-bit binaries to make sure your users can continue to run your apps on future versions of macOS. macOS High Sierra will be the last macOS release to support 32-bit apps without compromise.Learn more about distributing Mac apps.</description>
+<pubDate>Wed, 28 Jun 2017 15:25:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>At WWDC 2017, we announced new apps submitted to the Mac&nbsp;App&nbsp;Store must support 64-bit starting January 2018, and Mac app updates and existing apps must support 64-bit starting June 2018. If you distribute your apps outside the Mac&nbsp;App&nbsp;Store, we highly recommend distributing 64-bit binaries to make sure your users can continue to run your apps on future versions of macOS. macOS High Sierra will be the last macOS release to support 32-bit apps without compromise.</p><p><a href="https://developer.apple.com/macos/distribution/">Learn more about distributing Mac apps</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>64-bit Apps on iOS 11</title>
+<link>https://developer.apple.com/news/?id=06282017b</link>
+<guid>https://developer.apple.com/news/?id=06282017b</guid>
+<description>As a reminder, new iOS apps and updates submitted to the App Store must support 64-bit. Support for 32-bit apps is not available in iOS 11 and all 32-bit apps previously installed on a user’s device will not launch. If you haven’t updated your app on the App Store to support 64-bit, we recommend submitting an update so your users can continue to run your apps on iOS 11, which will be in the hands of hundreds of millions of customers this fall.Learn more about submitting apps.</description>
+<pubDate>Wed, 28 Jun 2017 15:25:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>As a reminder, new iOS apps and updates submitted to the App&nbsp;Store must support 64-bit. Support for 32-bit apps is not available in iOS&nbsp;11 and all 32-bit apps previously installed on a user’s device will not launch. If you haven’t updated your app on the App Store to support 64-bit, we recommend submitting an update so your users can continue to run your apps on iOS&nbsp;11, which will be in the hands of hundreds of millions of customers this fall.</p><p><a href="https://developer.apple.com/app-store/submissions/">Learn more about submitting apps</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Update Your Product Page for the All-New App Store</title>
+<link>https://developer.apple.com/news/?id=06272017a</link>
+<guid>https://developer.apple.com/news/?id=06272017a</guid>
+<description>The new App Store is now available to users of the iOS 11 public beta, and will be in the hands of hundreds of millions of users around the world this fall. Take advantage of more opportunities to showcase your content with subtitles, promotional text, additional app previews that you can localize, and up to 20 promoted in-app purchases. Learn how to make the most of your product page and enter your app’s new metadata in iTunes Connect today. Learn more about entering your metadata.</description>
+<pubDate>Tue, 27 Jun 2017 13:30:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>The new App Store is now available to users of the iOS 11 public beta, and will be in the hands of hundreds of millions of users around the world this fall. Take advantage of more opportunities to showcase your content with subtitles, promotional text, additional app previews that you can localize, and up to 20 promoted in-app purchases. Learn how to make the most of your product page and enter your app’s new metadata in iTunes&nbsp;Connect today. </p><p><a href="https://developer.apple.com/app-store/product-page/">Learn more about entering your metadata</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>2017 Apple Design Award Winners</title>
+<link>https://developer.apple.com/news/?id=06072017a</link>
+<guid>https://developer.apple.com/news/?id=06072017a</guid>
+<description>The Apple Design Awards recognize state-of-the-art apps that reflect the very best in design, innovation, and technology on Apple platforms. Learn about these winning apps and the talented developers behind them. See the winners.</description>
+<pubDate>Wed, 07 Jun 2017 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>The Apple Design Awards recognize state-of-the-art apps that reflect the very best in design, innovation, and technology on Apple platforms. Learn about these winning apps and the talented developers behind them.</p><p> <a href="https://developer.apple.com/design/awards/"><span class="nowrap">See the winners</span></a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Updated Guidelines Now Available </title>
+<link>https://developer.apple.com/news/?id=06062017a</link>
+<guid>https://developer.apple.com/news/?id=06062017a</guid>
+<description>The App Store Review Guidelines have been updated. We review all apps submitted to the App Store in an effort to determine whether they are reliable, perform as expected, and are free of offensive material. As you plan and develop your app, make sure to use these updated guidelines.See the App Store Review Guidelines.</description>
+<pubDate>Tue, 06 Jun 2017 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>The App Store Review Guidelines have been updated. We review all apps submitted to the App Store in an effort to determine whether they are reliable, perform as expected, and are free of offensive material. As you plan and develop your app, make sure to use these updated guidelines.</p><p><a href="https://developer.apple.com/app-store/review/guidelines/">See the App Store Review Guidelines</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>WWDC17. Now Live Streaming</title>
+<link>https://developer.apple.com/news/?id=06052017e</link>
+<guid>https://developer.apple.com/news/?id=06052017e</guid>
+<description>See the latest advancements in macOS, iOS, watchOS, and tvOS with over 100 sessions presented by Apple engineers at this year’s conference. We’re live streaming all sessions daily and posting videos and related sample code throughout the week. Watch WWDC session videos.</description>
+<pubDate>Mon, 05 Jun 2017 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>See the latest advancements in macOS, iOS, watchOS, and tvOS with over 100 sessions presented by Apple engineers at this year’s conference. We’re live streaming all sessions daily and posting videos and related sample code throughout the week. </p><p><a href="https://developer.apple.com/wwdc/live/">Watch WWDC session videos</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Build More Intelligent Apps with Core ML</title>
+<link>https://developer.apple.com/news/?id=06052017c</link>
+<guid>https://developer.apple.com/news/?id=06052017c</guid>
+<description>Now you can bring intelligent features, such as face tracking, text detection, language identification, and much more into your apps with the new foundational machine learning technology that is used across Apple products. Core ML delivers blazingly fast performance with easy integration of machine learning models.Learn more about Core ML.</description>
+<pubDate>Mon, 05 Jun 2017 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Now you can bring intelligent features, such as face tracking, text detection, language identification, and much more into your apps with the new foundational machine learning technology that is used across Apple products. Core ML delivers blazingly fast performance with easy integration of machine learning models.</p><p><a href="https://developer.apple.com/machine-learning/">Learn more about Core ML</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Create Augmented Reality Experiences with ARKit</title>
+<link>https://developer.apple.com/news/?id=06052017b</link>
+<guid>https://developer.apple.com/news/?id=06052017b</guid>
+<description>iOS 11 introduces ARKit, a new framework that allows you to easily create unparalleled augmented reality experiences for iPhone and iPad. ARKit takes apps beyond the screen, freeing them to interact with the real world in entirely new ways.Learn more about ARKit.</description>
+<pubDate>Mon, 05 Jun 2017 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>iOS 11 introduces ARKit, a new framework that allows you to easily create unparalleled augmented reality experiences for iPhone and iPad. ARKit takes apps beyond the screen, freeing them to interact with the real world in entirely new ways.</p><p><a href="https://developer.apple.com/arkit/">Learn more about ARKit</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Get Ready for the All-New App Store</title>
+<link>https://developer.apple.com/news/?id=06052017a</link>
+<guid>https://developer.apple.com/news/?id=06052017a</guid>
+<description>The App Store first launched nine years ago. And today, with over two million apps that transform the way we work, learn, and play, it’s the best app platform in the world. Now the App Store has been redesigned from the ground up to provide a beautiful place to showcase amazing apps and to help customers discover new favorites with the new Today tab, dedicated tabs for games and apps, a deeper product page experience, promoted in-app purchases, and enhanced search.In addition, starting today you can release your iOS app update to a small audience for feedback before making it available to your entire user base. Your version update will become available to an increasing percentage of users who have automatic updates turned on.Learn more about the all-new App Store.</description>
+<pubDate>Mon, 05 Jun 2017 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>The App Store first launched nine years ago. And today, with over two million apps that transform the way we work, learn, and play, it’s the best app platform in the world. Now the App&nbsp;Store has been redesigned from the ground up to provide a beautiful place to showcase amazing apps and to help customers discover new favorites with the new Today tab, dedicated tabs for games and apps, a deeper product page experience, promoted in-app purchases, and enhanced search.</p><p>In addition, starting today you can release your iOS app update to a small audience for feedback before making it available to your entire user base. Your version update will become available to an increasing percentage of users who have automatic updates turned on.</p><p><a href="https://developer.apple.com/app-store/whats-new/">Learn more about the all-new App Store</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Apple Pay Has Expanded to Italy</title>
+<link>https://developer.apple.com/news/?id=05172017a</link>
+<guid>https://developer.apple.com/news/?id=05172017a</guid>
+<description>You can now support Apple Pay for your customers in Italy, providing an easy and secure way for them to pay within your apps and websites with a single touch.Learn more about Apple Pay.</description>
+<pubDate>Wed, 17 May 2017 08:30:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>You can now support Apple Pay for your customers in Italy, providing an easy and secure way for them to pay within your apps and websites with a single touch.</p><p><span class="nowrap"><a href="https://developer.apple.com/apple-pay/">Learn more about Apple Pay</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>New Beyond WWDC Events Added</title>
+<link>https://developer.apple.com/news/?id=05162017a</link>
+<guid>https://developer.apple.com/news/?id=05162017a</guid>
+<description>In addition to WWDC, a variety of other exciting developer events will take place throughout the week in San Jose — and more have just been added. You can connect with a talented, international developer community, whether you’re attending the conference or visiting San Jose to experience these incredible events. Find out how you can be a part of this inspiring week.Learn more about the events.</description>
+<pubDate>Tue, 16 May 2017 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>In addition to WWDC, a variety of other exciting developer events will take place throughout the week in San Jose — and more have just been added. You can connect with a talented, international developer community, whether you’re attending the conference or visiting San Jose to experience these incredible events. Find out how you can be a part of this inspiring week.</p><p><a href="https://developer.apple.com/wwdc/more/">Learn more about the events</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>App Store Sources and App Referrer Data Now Available</title>
+<link>https://developer.apple.com/news/?id=05032017a</link>
+<guid>https://developer.apple.com/news/?id=05032017a</guid>
+<description>App Analytics in iTunes Connect now provides insight on where customers discover your app, including App Store browsing and search, within other apps, or on the web. With key metrics based on source types, you can see your top referring apps and websites, making it easier to optimize your marketing campaigns.Learn more about App Analytics.</description>
+<pubDate>Wed, 03 May 2017 15:49:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>App Analytics in iTunes Connect now provides insight on where customers discover your app, including App Store browsing and search, within other apps, or on the web. With key metrics based on source types, you can see your top referring apps and websites, making it easier to optimize your marketing campaigns.</p><p><a href="https://developer.apple.com/app-store/app-analytics/">Learn more about App Analytics</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Introducing LivePhotosKit JS </title>
+<link>https://developer.apple.com/news/?id=04202017a</link>
+<guid>https://developer.apple.com/news/?id=04202017a</guid>
+<description>This new JavaScript-based API makes it easy to embed Live Photos on your websites. In addition to enabling Live Photos on iOS and macOS, you can now let users display their Live Photos on the web. Learn more about Live Photos.</description>
+<pubDate>Thu, 20 Apr 2017 11:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>This new JavaScript-based API makes it easy to embed Live Photos on your websites. In addition to enabling Live Photos on iOS and macOS, you can now let users display their Live Photos on the web.</p><p> <a href="https://developer.apple.com/live-photos/">Learn more about Live Photos</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Search Ads is Expanding to the UK, Australia, and New Zealand</title>
+<link>https://developer.apple.com/news/?id=04192017a</link>
+<guid>https://developer.apple.com/news/?id=04192017a</guid>
+<description>Starting April 25, 2017 at 10 a.m. PDT, Search Ads will be available on the App Store in the UK, Australia, and New Zealand, providing an efficient and easy way to promote your app at the top of relevant search results in more markets. Get started with your campaigns today.Learn more about Search Ads.</description>
+<pubDate>Wed, 19 Apr 2017 16:30:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Starting April 25, 2017 at 10 a.m. PDT, Search Ads will be available on the App&nbsp;Store in the UK, Australia, and New&nbsp;Zealand, providing an efficient and easy way to promote your app at the top of relevant search results in more markets. Get started with your campaigns&nbsp;today.</p><p><a href="https://searchads.apple.com/?cid=SA-IN-US-DRNWS2">Learn more about Search Ads</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>What’s New in TestFlight</title>
+<link>https://developer.apple.com/news/?id=04112017a</link>
+<guid>https://developer.apple.com/news/?id=04112017a</guid>
+<description>TestFlight in iTunes Connect now provides multiple build support, enhanced group capabilities, and improved tester management—making it even easier to test your apps.Multiple BuildsTestFlight now lets you distribute and test multiple builds at the same time, so testers can choose from a number of builds to test.GroupsTestFlight groups have changed. You can now do more with them, like create groups of TestFlight users, and each group can test a different build. To get you started, we’ve added all of your existing external testers to the group “External Testers,” which you can edit at any time.Tester ManagementTesters can continue testing a build when it goes live on the App Store, minimizing disruptions. iTunes Connect users can also access all active builds, letting them seamlessly compare different builds and you can easily resend invitations to testers who have not yet accepted their invitation. Learn more about TestFlight.</description>
+<pubDate>Tue, 11 Apr 2017 13:40:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>TestFlight in iTunes Connect now provides multiple build support, enhanced group capabilities, and improved tester management—making it even easier to test your apps.</p><p><b>Multiple Builds</b><br>TestFlight now lets you distribute and test multiple builds at the same time, so testers can choose from a number of builds to test.</p><p><b>Groups</b><br>TestFlight groups have changed. You can now do more with them, like create groups of TestFlight users, and each group can test a different build. To get you started, we’ve added all of your existing external testers to the group “External Testers,” which you can edit at any time.</p><p><b>Tester Management</b><br>Testers can continue testing a build when it goes live on the App&nbsp;Store, minimizing disruptions. iTunes Connect users can also access all active builds, letting them seamlessly compare different builds and you can easily resend invitations to testers who have not yet accepted their invitation.</p><p> <a href="https://developer.apple.com/testflight/">Learn more about TestFlight</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Announcing App Accelerator Bengaluru</title>
+<link>https://developer.apple.com/news/?id=03312017a</link>
+<guid>https://developer.apple.com/news/?id=03312017a</guid>
+<description>The new App Accelerator provides a unique opportunity to get inspired by learning about the latest advances in iOS, watchOS, tvOS, and macOS—directly from Apple experts in Bengaluru, India. Throughout the year, local developers can attend presentations on the capabilities of Apple platforms, explore best practices for optimizing apps, and learn more about designing high-quality apps for Apple platforms. Learn more about the App Accelerator.</description>
+<pubDate>Fri, 31 Mar 2017 07:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>The new App Accelerator provides a unique opportunity to get inspired by learning about the latest advances in iOS, watchOS, tvOS, and macOS—directly from Apple experts in Bengaluru, India. Throughout the year, local developers can attend presentations on the capabilities of Apple platforms, explore best practices for optimizing apps, and learn more about designing high-quality apps for Apple platforms.</p><p> <a href="https://developer.apple.com/accelerator/">Learn more about the App Accelerator</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>SAP Cloud Platform SDK for iOS Now Available</title>
+<link>https://developer.apple.com/news/?id=03302017a</link>
+<guid>https://developer.apple.com/news/?id=03302017a</guid>
+<description>Apple and SAP are working together to make it easier than ever to reinvent business processes and workflows everywhere. With the new SAP Cloud Platform SDK for iOS, you can build powerful native iOS apps that integrate seamlessly with the SAP Cloud Platform. Learn more about the SDK.</description>
+<pubDate>Thu, 30 Mar 2017 15:50:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Apple and SAP are working together to make it easier than ever to reinvent business processes and workflows everywhere. With the new SAP Cloud Platform SDK for iOS, you can build powerful native iOS apps that integrate seamlessly with the SAP Cloud Platform.</p><p> <a href="https://developer.apple.com/sap/">Learn more about the SDK</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Apple Pay Has Expanded to Taiwan</title>
+<link>https://developer.apple.com/news/?id=03282017b</link>
+<guid>https://developer.apple.com/news/?id=03282017b</guid>
+<description>You can now support Apple Pay for your customers in Taiwan, providing an easy and secure way for them to pay within your apps and websites with a single touch.Learn more about Apple Pay.</description>
+<pubDate>Tue, 28 Mar 2017 18:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>You can now support Apple Pay for your customers in Taiwan, providing an easy and secure way for them to pay within your apps and websites with a single touch.</p><p><span class="nowrap"><a href="https://developer.apple.com/apple-pay/">Learn more about Apple Pay</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Ratings, Reviews, and Responses on the App Store</title>
+<link>https://developer.apple.com/news/?id=03272017c</link>
+<guid>https://developer.apple.com/news/?id=03272017c</guid>
+<description>Now you can engage new and existing customers more easily with streamlined ratings and reviews capabilities.In-App Ratings and ReviewsThe new StoreKit API available on iOS 10.3 makes it easy for customers to provide App Store ratings and reviews without leaving your app. Simply choose when you’d like to prompt the user, and the system takes care of the rest.Responding to CustomersYou can now publicly respond to customer reviews of your app on the App Store for iPhone, iPad, and Mac. When you respond, the customer is notified and has the option to update their feedback. Learn more about Ratings and Reviews.</description>
+<pubDate>Mon, 27 Mar 2017 16:20:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Now you can engage new and existing customers more easily with streamlined ratings and reviews capabilities.</p><p><b>In-App Ratings and Reviews</b><br>The new StoreKit API available on iOS 10.3 makes it easy for customers to provide App Store ratings and reviews without leaving your app. Simply choose when you’d like to prompt the user, and the system takes care of the rest.</p><p><b>Responding to Customers</b><br>You can now publicly respond to customer reviews of your app on the App Store for iPhone, iPad, and Mac. When you respond, the customer is notified and has the option to update their feedback.</p><p> <a href="https://developer.apple.com/app-store/ratings-and-reviews/">Learn more about Ratings and Reviews</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>WWDC 2017 Registration Now Open</title>
+<link>https://developer.apple.com/news/?id=03272017a</link>
+<guid>https://developer.apple.com/news/?id=03272017a</guid>
+<description>The opportunity to buy tickets to this year’s conference is offered by random selection. Register by Friday, March 31 at 10:00 a.m. PDT for your chance to join thousands of others coming together to change the world.Learn more about WWDC 2017.</description>
+<pubDate>Mon, 27 Mar 2017 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>The opportunity to buy tickets to this year’s conference is offered by random selection. Register by Friday, March 31 at 10:00 a.m. PDT for your chance to join thousands of others coming together to change the world.</p><p><a href="https://developer.apple.com/wwdc/">Learn more about WWDC 2017</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Swift Playgrounds 1.2 Now Available</title>
+<link>https://developer.apple.com/news/?id=03232017a</link>
+<guid>https://developer.apple.com/news/?id=03232017a</guid>
+<description>Swift Playgrounds, the revolutionary app for iPad that helps students learn to code, is now localized in Simplified Chinese, French, German, Japanese, and Latin American Spanish, making it even easier for more students around the world to learn and experiment with code. Read the full press release.</description>
+<pubDate>Thu, 23 Mar 2017 15:30:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Swift Playgrounds, the revolutionary app for iPad that helps students learn to code, is now localized in Simplified Chinese, French, German, Japanese, and Latin American Spanish, making it even easier for more students around the world to learn and experiment with code.</p><p><span class="nowrap"><a href="http://www.apple.com/newsroom/2017/03/swift-playgrounds-now-available-in-five-additional-languages.html"> Read the full press release</a>.</span></p>]]></content:encoded>
+</item>
+<item>
+<title>Apple Pay Has Expanded to Ireland</title>
+<link>https://developer.apple.com/news/?id=03072017a</link>
+<guid>https://developer.apple.com/news/?id=03072017a</guid>
+<description>You can now support Apple Pay for your customers in Ireland, providing an easy and secure way for them to pay within your app and website with a single touch.  Learn more about Apple Pay.</description>
+<pubDate>Tue, 07 Mar 2017 08:30:00 PST</pubDate>
+<content:encoded><![CDATA[<p>You can now support Apple Pay for your customers in Ireland, providing an easy and secure way for them to pay within your app and website with a single touch.  <span class="nowrap"><a href="https://developer.apple.com/apple-pay/">Learn more about Apple Pay</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>WWDC Scholarship Details Now Available</title>
+<link>https://developer.apple.com/news/?id=03062017a</link>
+<guid>https://developer.apple.com/news/?id=03062017a</guid>
+<description>WWDC Scholarships reward talented students and STEM organization members with the opportunity to attend this year’s conference. Developers selected for a scholarship will receive a WWDC17 ticket and lodging free of charge.Learn more about WWDC Scholarships.</description>
+<pubDate>Mon, 06 Mar 2017 10:35:00 PST</pubDate>
+<content:encoded><![CDATA[<p>WWDC Scholarships reward talented students and STEM organization members with the opportunity to attend this year’s conference. Developers selected for a scholarship will receive a WWDC17 ticket and lodging free of charge.</p><p><a href="https://developer.apple.com/wwdc/scholarships/">Learn more about WWDC Scholarships.</a></p>]]></content:encoded>
+</item>
+
+</channel>
+</rss>
